@@ -29,7 +29,7 @@ I am actively seeking **quantitative research** or **data science roles** where 
 - Cleaned and analyzed noisy datasets, improving predictive accuracy through feature engineering and rolling windows.  
 
 ### 🚀 Mars Makeover Hackathon  
-- **Award:** 2nd place in Algorithms with a Purpose 2023  
+- **Award:** 2nd place in Algorithms With A Purpose 2023  
 - **Overview:** Game-theoretic algorithms to optimize resource collection and terraforming strategies under dynamic constraints. 
 
 ### 🧩 Hangman Solver with NLP Techniques
