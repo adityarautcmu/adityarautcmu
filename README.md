@@ -46,8 +46,6 @@ I am actively seeking **quantitative research** or **data science roles** where 
 
 - 💼 **LinkedIn:** [/in/adityarautcmu](https://linkedin.com/in/adityarautcmu)  
 - 📧 **Email:** [adityaraut34 at Gmail](mailto:adityaraut34@gmail.com) | [araut at CMU](mailto:araut@andrew.cmu.edu)
----
-
 
 
 <!--
