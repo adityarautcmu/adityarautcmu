@@ -9,7 +9,7 @@ My academic journey combines advanced mathematical modeling and algorithmic desi
 ## 🔍 About Me  
 
 - 🌟 **Mathematical Problem-Solver**: Tackling complex problems with deep theoretical insights and practical algorithmic approaches.
-- 📊 **Quantitative Explorer**: Applying mathematics and machine learning to financial engineering, optimization, and predictive modeling.  
+- 📊 **Quantitative Explorer**: Applying machine learning to financial engineering, optimization, and predictive modeling.  
 - 🧑‍💻 **Tech Enthusiast**: Skilled programmer in Python, SQL, and data analysis tools like Pandas, NumPy, Scikit-learn, PyTorch, and Seaborn.  
 
 I am actively seeking **quantitative research** or **data science roles** where I can apply my expertise in algorithms, statistical modeling, and optimization to make meaningful contributions. Resume available by ([email](mailto:adityaraut34@gmail.com)) request.
