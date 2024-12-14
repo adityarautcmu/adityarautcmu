@@ -24,7 +24,7 @@ I am actively seeking **quantitative research** or **data science roles** where 
 - **Speech Recognition:** Weighted Finite-State Transducer (WFST) integration to enhance ESPnet library’s performance on ASR.  
 - **Transcript Generation:** Attention-based models for accurate transcript generation from audio, leveraging Seq2Seq architectures.
   
-### 📈 Stock Price Prediction with Time Series Modeling  
+### 📈 [Stock Price Prediction with Time Series Modeling](https://github.com/adityarautcmu/stock-price-prediction)
 - Built mechanisms to forecast volatility of logarithmic returns using linear models and regression analysis.  
 - Cleaned and analyzed noisy datasets, improving predictive accuracy through feature engineering and rolling windows.  
 
