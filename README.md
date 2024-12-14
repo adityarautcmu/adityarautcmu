@@ -28,7 +28,7 @@ I am actively seeking **quantitative research** or **data science roles** where 
 - Built mechanisms to forecast volatility of logarithmic returns using linear models and regression analysis.  
 - Cleaned and analyzed noisy datasets, improving predictive accuracy through feature engineering and rolling windows.  
 
-### 🚀 Mars Makeover Hackathon  
+### 🚀 [Mars Makeover Hackathon](https://github.com/danielhathcock/awap2023)
 - **Overview:** Game-theoretic algorithms to optimize resource collection and terraforming strategies under dynamic constraints. 
 - **Award:** 2nd place in Algorithms With A Purpose 2023.
 
