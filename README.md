@@ -32,7 +32,7 @@ I am actively seeking **quantitative research** or **data science roles** where 
 - **Overview:** Game-theoretic algorithms to optimize resource collection and terraforming strategies under dynamic constraints. 
 - **Award:** 2nd place in Algorithms With A Purpose 2023.
 
-### 🧩 Hangman Solver with NLP Techniques
+### 🧩 [Hangman Solver with NLP Techniques](https://github.com/adityarautcmu/hangman-solver)
 - Intelligent game solver with NLP methods like bidirectional LSTMs, n-grams, and word embeddings.
 - Optimized letter selection with entropy-based ranking, achieving high success rates in varying game scenarios.
 
