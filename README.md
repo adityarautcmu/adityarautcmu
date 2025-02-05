@@ -38,7 +38,7 @@ I am actively seeking **quantitative research** or **data science roles** where 
 
 ### 🔍 Research on Asymptotic Bounds for Random Graphs  
 - Developed novel bounds for the [list chromatic number](https://arxiv.org/abs/2312.03563) and the [maximum degree](https://arxiv.org/abs/2404.06410) in powers of sparse random graphs.  
-- Currently under review for publication in the Journal of Combinatorics and Journal of Graph Theory.
+- To appear in the Journal of Combinatorics (accepted) and Journal of Graph Theory, respectively.
 
 ---
 
